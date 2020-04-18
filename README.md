@@ -1,3 +1,3 @@
 # devops-aula05
 
-* Andrew Marquezin Marinho
+* Andrew Marquezin
