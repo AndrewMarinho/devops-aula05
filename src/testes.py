@@ -11,7 +11,7 @@ else:
         if len(linha) != 3:
             erroInicializar = True
         else:
-            for elemento em linha:
+            for elemento in linha:
                 if elemento != ".":
                     erroInicializar = True
 if erroInicializar:
